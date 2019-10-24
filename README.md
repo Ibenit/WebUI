@@ -4,7 +4,7 @@ An npm package for the XbimWebUI Viewer, based on https://github.com/xBimTeam/Xb
 
 # Installation
 
-`i webui-npm --save`
+`npm i webui-npm --save`
 
 🎉Then...
 
