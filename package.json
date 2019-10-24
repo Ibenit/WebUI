@@ -1,0 +1,22 @@
+{
+  "name": "webui-npm",
+  "version": "1.0.0",
+  "description": "A viewer for XBIM files, based on the XbimWebUI.",
+  "main": "dist/viewer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibenit/WebUI.git"
+  },
+  "keywords": [
+    "webui"
+  ],
+  "author": "Iben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibenit/WebUI/issues"
+  },
+  "homepage": "https://github.com/Ibenit/WebUI#readme"
+}

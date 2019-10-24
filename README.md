@@ -4,12 +4,12 @@ An npm package for the XbimWebUI Viewer, based on https://github.com/xBimTeam/Xb
 
 # Installation
 
-`npm i WebUI --save`
+`i webui-npm --save`
 
-Then...
+🎉Then...
 
 ```
-import { shadowizard } from 'WebUI'
+import { Viewer, State } from "webui-npm";
 ```
 
 ## Options
